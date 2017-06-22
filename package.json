@@ -1,0 +1,19 @@
+{
+  "name": "remotecontrols",
+  "version": "1.0.0",
+  "description": "forked from the Remote Controls parent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuddyLReno/RemoteControls.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuddyLReno/RemoteControls/issues"
+  },
+  "homepage": "https://github.com/BuddyLReno/RemoteControls#readme"
+}
